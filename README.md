@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WambuaMorris
 - 👀 I’m interested in ...Making awesome web/ mobile projects
-- 🌱 I’m currently learning ... Front-end technologies
+- 🌱 I’m currently learning ... Front-end technologies and Data Science
 - 📫 How to reach me ...mutindamorriswambua@gmail.com
 
 <!---
